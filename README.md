@@ -1,4 +1,4 @@
-# The Windows Research Kernel AKA WRK
+# The Windows Research Kernel AKA WRK.
 Is a part of the source code of the actual windows NT Kernel.
 WRK is designed for academic uses and research, by no means
 it can be used for commercial purposes.
